@@ -28,7 +28,7 @@
 
 <div align="center">
     [Podcast no YouTube](https://youtu.be/b086xRrWB8A)
-</center>
+</div>
 
 # Projeto Podcast Gerado por I.A.s
 
