@@ -19,16 +19,8 @@
 </p>
 
 <p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast-0108.MP3" controls title="Podcast editado"></audio>
-</div>
-
-<div align="center">
     [Podcast no YouTube](https://youtu.be/b086xRrWB8A)
-</div>
+</p>
 
 # Projeto Podcast Gerado por I.A.s
 
