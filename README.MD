@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Leonardo_Phoenix_09_clean_soft_illustration_edit.png"
     width="300"
 />
 </p>
